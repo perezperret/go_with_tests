@@ -2,6 +2,7 @@
 
 - [X] Hello, World
 - [X] Integers
-- [ ] Iteration
-- [ ] Arrays and slices
+- [X] Iteration
+- [X] Arrays and slices
 - [ ] Structs, methods and interfaces
+- [ ] Pointers and errors
