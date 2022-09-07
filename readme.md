@@ -4,5 +4,6 @@
 - [X] Integers
 - [X] Iteration
 - [X] Arrays and slices
-- [ ] Structs, methods and interfaces
+- [X] Structs, methods and interfaces
 - [ ] Pointers and errors
+- [ ] Maps
