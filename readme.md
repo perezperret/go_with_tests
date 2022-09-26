@@ -6,6 +6,7 @@
 - [X] Arrays and slices
 - [X] Structs, methods and interfaces
 - [X] Pointers and errors
-- [ ] Maps
+- [X] Maps
 - [ ] Dependency injection
 - [ ] Mocking
+- [ ] Concurrency
