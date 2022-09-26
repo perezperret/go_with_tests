@@ -7,6 +7,7 @@
 - [X] Structs, methods and interfaces
 - [X] Pointers and errors
 - [X] Maps
-- [ ] Dependency injection
+- [X] Dependency injection
 - [ ] Mocking
 - [ ] Concurrency
+- [ ] Select
