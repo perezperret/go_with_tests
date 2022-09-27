@@ -1,5 +1,7 @@
 # My solutions for [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
+Mostly following along with the course.
+
 - [X] Hello, World
 - [X] Integers
 - [X] Iteration
@@ -9,7 +11,8 @@
 - [X] Maps
 - [X] Dependency injection
 - [X] Mocking
-- [ ] Concurrency
+- [X] Concurrency
 - [ ] Select
 - [ ] Reflection
 - [ ] Sync
+- [ ] Context
