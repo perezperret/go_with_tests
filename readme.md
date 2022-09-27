@@ -8,6 +8,8 @@
 - [X] Pointers and errors
 - [X] Maps
 - [X] Dependency injection
-- [ ] Mocking
+- [X] Mocking
 - [ ] Concurrency
 - [ ] Select
+- [ ] Reflection
+- [ ] Sync
