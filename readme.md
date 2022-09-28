@@ -12,7 +12,8 @@ Mostly following along with the course.
 - [X] Dependency injection
 - [X] Mocking
 - [X] Concurrency
-- [ ] Select
+- [X] Select
 - [ ] Reflection
 - [ ] Sync
 - [ ] Context
+- [ ] Property based tests
