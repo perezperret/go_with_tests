@@ -13,7 +13,8 @@ Mostly following along with the course.
 - [X] Mocking
 - [X] Concurrency
 - [X] Select
-- [ ] Reflection
+- [X] Reflection
 - [ ] Sync
 - [ ] Context
 - [ ] Property based tests
+- [ ] Maths
