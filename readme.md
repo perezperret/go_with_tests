@@ -14,7 +14,10 @@ Mostly following along with the course.
 - [X] Concurrency
 - [X] Select
 - [X] Reflection
-- [ ] Sync
-- [ ] Context
+- [X] Sync
+- [X] Context
 - [ ] Property based tests
 - [ ] Maths
+- [ ] Reading files
+- [ ] Templating
+- [ ] Generics
