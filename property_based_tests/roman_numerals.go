@@ -6,7 +6,7 @@ import (
 
 type RomanNumerals []RomanNumeral
 
-func (r RomanNumerals) ValueOf(symbols ...byte) int {
+func (r RomanNumerals) ValueOf(symbols ...byte) uint16 {
 	symbol := string(symbols)
 	for _, s := range r {
 		if s.Symbol == symbol {
@@ -18,7 +18,7 @@ func (r RomanNumerals) ValueOf(symbols ...byte) int {
 }
 
 type RomanNumeral struct {
-	Value  int
+	Value  uint16
 	Symbol string
 }
 
@@ -38,7 +38,7 @@ var allRomanNumerals = RomanNumerals{
 	{1, "I"},
 }
 
-func ConvertToRoman(arabic int) string {
+func ConvertToRoman(arabic uint16) string {
 
 	var result strings.Builder
 
@@ -52,8 +52,9 @@ func ConvertToRoman(arabic int) string {
 	return result.String()
 }
 
-func ConvertToArabic(roman string) int {
-	total := 0
+func ConvertToArabic(roman string) uint16 {
+	var total uint16
+	total = 0
 	i := 0
 
 	for i < len(roman)-1 {

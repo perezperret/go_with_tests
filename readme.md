@@ -16,7 +16,7 @@ Mostly following along with the course.
 - [X] Reflection
 - [X] Sync
 - [X] Context
-- [ ] Property based tests
+- [X] Property based tests
 - [ ] Maths
 - [ ] Reading files
 - [ ] Templating
