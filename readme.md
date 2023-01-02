@@ -17,7 +17,7 @@ Mostly following along with the course.
 - [X] Sync
 - [X] Context
 - [X] Property based tests
-- [ ] Maths
-- [ ] Reading files
-- [ ] Templating
-- [ ] Generics
+- [ ] Maths [SKIP]
+- [ ] Reading files [SKIP]
+- [ ] Templating [SKIP]
+- [ ] [Generics](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/generics)
